@@ -133,11 +133,17 @@ The email address returned by the WHOIS-related transform needed to be interpret
 <img width="2736" height="1824" alt="maltego" src="https://github.com/user-attachments/assets/dfb46ebd-c726-426d-aa64-de254f7065d9" />
 01-maltego-launch-kali
 
+
+
 <img width="2736" height="1824" alt="maltego01" src="https://github.com/user-attachments/assets/ed1004aa-0ead-43fa-93b2-73347cfbbc00" />
 02-maltego-domain-transforms
 
+
+
 <img width="2736" height="1824" alt="maltego001" src="https://github.com/user-attachments/assets/bccb52e9-610d-448a-8be9-ff744bd36c8b" />
 03-maltego-domain-entity
+
+
 
 <img width="2736" height="1824" alt="maltego1" src="https://github.com/user-attachments/assets/85c639f2-aa45-40b6-bcf4-53ebcdddcf0a" />
 04-maltego-whois-email-relationship
@@ -152,3 +158,11 @@ The exercise strengthened my understanding of graphical reconnaissance, entity r
 
 **Disclaimer:** This exercise is documented for educational purposes. Findings are based on the supplied Maltego screenshots and should not be interpreted as confirmation of a security vulnerability or a verified ownership relationship.
 
+
+
+# Author
+Nicholas Gyemfi 
+
+Cybersecurity Entusiast
+
+LinkedIn: [https://www.linkedin.com/in/nic-gyim/](https://www.linkedin.com/in/nic-gyim/)
